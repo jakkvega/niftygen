@@ -1,0 +1,2 @@
+# niftygen
+NFT collection generator
